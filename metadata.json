@@ -1,0 +1,8 @@
+{
+  "name": "YABBAI Ω - Autonomous Machine Economy OS",
+  "description": "Production-grade Autonomous Machine Economy Operating System with real Solana ledger verification, x402 machine payments, 20+ agent fleet orchestration, zero-capital and market opportunity connectors, and JARVIS autonomous loop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
